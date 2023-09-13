@@ -1,0 +1,4 @@
+librosa==0.8.1
+opencv-python
+tqdm
+facenet_pytorch
