@@ -3,7 +3,7 @@ ATTENTION AGGREGATION NETWORK FOR AUDIO-VISUAL EMOTION RECOGNITION
 
 We provide implementations for RAVDESS dataset of speech and frontal face view data corresponding to 8 emotions: 01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised. The way to use the project's code is as follows:
 
-## Usage
+# Usage -- end-to-end network
 ## Dataset preparation
 For training on Ravdess, download data from **https://zenodo.org/record/1188976#.YkgJVijP2bh**. You will need to download the files Video_Speech_Actor_[01-24].zip and Audio_Speech_Actors_01-24.zip. The directory should be organized as follows:
 
