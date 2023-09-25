@@ -47,6 +47,6 @@ If you wish to test a previously trained model, please specify the '--no_train' 
         python main.py  --no_train --no_val --result_path [PATH_TO_CHECKPOINT_FOLDER]
 
 
-## experiment result
+## Experimental result
 For end-to-end networks, the experimental results can be found in the 'end-to-end/result/' folder.
 
